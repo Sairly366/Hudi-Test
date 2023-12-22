@@ -57,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="232" column="32" selection-start-line="232" selection-start-column="32" selection-end-line="232" selection-end-column="32" />
+            <state relative-caret-position="258">
+              <caret line="242" column="24" selection-start-line="242" selection-start-column="24" selection-end-line="242" selection-end-column="24" />
               <folding>
                 <element signature="e#25#58#0" expanded="true" />
               </folding>
@@ -364,7 +364,7 @@
       <workItem from="1702972260946" duration="1325000" />
       <workItem from="1702973628380" duration="3933000" />
       <workItem from="1703250184457" duration="807000" />
-      <workItem from="1703253094460" duration="9590000" />
+      <workItem from="1703253094460" duration="10010000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1703261377509</created>
@@ -377,7 +377,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127216000" />
+    <option name="totallyTimeSpent" value="127636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,7 +390,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="614" y="0" width="910" height="792" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772727" visible="true" weight="0.342723" />
       <window_info id="Structure" order="1" sideWeight="0.5022727" side_tool="true" weight="0.22147001" />
@@ -703,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="232" column="32" selection-start-line="232" selection-start-column="32" selection-end-line="232" selection-end-column="32" />
+        <state relative-caret-position="258">
+          <caret line="242" column="24" selection-start-line="242" selection-start-column="24" selection-end-line="242" selection-end-column="24" />
           <folding>
             <element signature="e#25#58#0" expanded="true" />
           </folding>
