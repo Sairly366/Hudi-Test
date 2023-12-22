@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8e8bd4d-15a5-48df-834c-9a7d780ea314" name="Default Changelist" comment="第一次提交" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hudi-start/target/" />
+    <ignored path="$PROJECT_DIR$/hudi-spark/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hudi-spark/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiStorageSpark.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="81" column="74" selection-start-line="81" selection-start-column="74" selection-end-line="81" selection-end-column="74" />
+              <folding>
+                <element signature="e#25#88#0" expanded="true" />
+                <element signature="e#1723#1770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="232" column="32" selection-start-line="232" selection-start-column="32" selection-end-line="232" selection-end-column="32" />
+              <folding>
+                <element signature="e#25#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wangshujin &lt;2229162249@qq.com&gt;" />
+        <option value="wangshujin" />
+        <option value="Sairly366" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="hudi-spark" />
+          <option name="title" value="hudi-spark (Bundled Groovy 2.4.15)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hudi-start/pom.xml" />
+        <option value="$PROJECT_DIR$/hudi-start/src/test/scala/HudiStartApp.scala" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/test/scala/master/hudi/test/HudiSparkAppTest.scala" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/test/scala/master/hudi/test/DayWeekTest.scala" />
+        <option value="$PROJECT_DIR$/hudi-start/src/main/scala/master/hudi/spark/HudiSparkDemo.scala" />
+        <option value="$PROJECT_DIR$/hudi-start/src/main/scala/master/hudi/spark/HudiSparkdemo.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hudi-start/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/SparkUtils.scala" />
+        <option value="F:/数据湖架构开发Hudi/资料-2022数据湖架构开发Hudi/第2部分、Hudi 应用进阶篇（Spark 集成）-资料/第2部分、Hudi 应用进阶篇（Spark 集成）/3.代码、配置/DidiStorageSpark.scala" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/test/scala/master/hudi/test/HudiSparkDemo.scala" />
+        <option value="$PROJECT_DIR$/hudi-spark/pom.xml" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/storage.scala" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiStorageSpark.scala" />
+        <option value="$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="frameworksView" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Idea project\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Idea project\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hudi-spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hudi-spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="767" />
+    <option name="width" value="1138" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hudi-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hudi-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hudi-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hudi-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="datas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hudi-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hudi-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="datas" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hudi-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hudi-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="hudi-spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hudi-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hudi-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="hudi-spark" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;hive" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea project\hudi-learning\datas\didi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea project\hudi-learning\hudi-spark" />
+      <recent name="D:\Idea project\hudi-learning\hudi-spark\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DidiAnalysisSpark">
+    <configuration name="DidiAnalysisSpark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="master.hudi.didi.DidiAnalysisSpark" />
+      <module name="hudi-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.hudi.didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DidiStorageSpark (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hudi.didi.DidiStorageSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hudi.didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DidiStorageSpark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="master.hudi.didi.DidiStorageSpark" />
+      <module name="hudi-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.hudi.didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HudiSparkDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="master.hudi.test.HudiSparkDemo" />
+      <module name="hudi-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.hudi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkUtils" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="master.hudi.didi.SparkUtils" />
+      <module name="hudi-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.hudi.didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="storage" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="master.hudi.didi.storage" />
+      <module name="hudi-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.hudi.didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.storage" />
+      <item itemvalue="Application.DidiStorageSpark" />
+      <item itemvalue="Application.SparkUtils" />
+      <item itemvalue="Application.DidiStorageSpark (1)" />
+      <item itemvalue="Application.HudiSparkDemo" />
+      <item itemvalue="Application.DidiAnalysisSpark" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DidiAnalysisSpark" />
+        <item itemvalue="Application.DidiStorageSpark" />
+        <item itemvalue="Application.HudiSparkDemo" />
+        <item itemvalue="Application.DidiStorageSpark (1)" />
+        <item itemvalue="Application.SparkUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\S.J.Wang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e8bd4d-15a5-48df-834c-9a7d780ea314" name="Default Changelist" comment="" />
+      <created>1700037568265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700037568265</updated>
+      <workItem from="1700037571676" duration="8354000" />
+      <workItem from="1700314700170" duration="1227000" />
+      <workItem from="1700378360708" duration="795000" />
+      <workItem from="1700451237227" duration="12378000" />
+      <workItem from="1701168735273" duration="11878000" />
+      <workItem from="1701228949634" duration="786000" />
+      <workItem from="1701229795001" duration="10862000" />
+      <workItem from="1701423347369" duration="1782000" />
+      <workItem from="1701426750759" duration="2540000" />
+      <workItem from="1701438391591" duration="5004000" />
+      <workItem from="1701506698202" duration="1478000" />
+      <workItem from="1701508268094" duration="110000" />
+      <workItem from="1701508605096" duration="6321000" />
+      <workItem from="1701520762943" duration="6783000" />
+      <workItem from="1702087296788" duration="19329000" />
+      <workItem from="1702449718900" duration="1544000" />
+      <workItem from="1702785837098" duration="4963000" />
+      <workItem from="1702885568068" duration="1749000" />
+      <workItem from="1702887762913" duration="4276000" />
+      <workItem from="1702904917957" duration="6401000" />
+      <workItem from="1702965665762" duration="1609000" />
+      <workItem from="1702970289228" duration="1392000" />
+      <workItem from="1702972260946" duration="1325000" />
+      <workItem from="1702973628380" duration="3933000" />
+      <workItem from="1703250184457" duration="807000" />
+      <workItem from="1703253094460" duration="9590000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1703261377509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703261377509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127216000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="614" y="0" width="910" height="792" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772727" visible="true" weight="0.342723" />
+      <window_info id="Structure" order="1" sideWeight="0.5022727" side_tool="true" weight="0.22147001" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49759847" weight="0.24279211" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.1325811" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32863188" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50240153" side_tool="true" visible="true" weight="0.38030303" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.4148784" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.32791728" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32857144" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3280116" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24326923" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.38302752" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" weight="0.26340482" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.50067025" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.22750865" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49772727" visible="true" weight="0.29049775" />
+      <window_info id="Structure" order="1" sideWeight="0.5022727" side_tool="true" weight="0.22147001" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990196" visible="true" weight="0.28882438" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3971519" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.1325811" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32863188" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009804" side_tool="true" weight="0.58428574" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.4153401" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.32791728" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32857144" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" visible="true" weight="0.3293944" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24463807" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.38394585" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" visible="true" weight="0.027149322" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.50268096" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.22817133" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hudi-start/src/test/scala/HudiStartApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7a677a22-3e9f-4dc8-94e0-92e1ec54766f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8034ec8-fd83-4d9b-bb71-64cd94bfbf3a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b52aa7d-d488-405e-9022-717fbac34f63/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1958fd27-1968-4a2a-adda-9918bd4d15a6/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/数据湖架构开发Hudi/资料-2022数据湖架构开发Hudi/第2部分、Hudi 应用进阶篇（Spark 集成）-资料/第2部分、Hudi 应用进阶篇（Spark 集成）/3.代码、配置/hudi-spark-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/resources/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6e3b76d3-a8b5-4b91-b7bf-9e7fd2d6f691/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6e3b76d3-a8b5-4b91-b7bf-9e7fd2d6f691/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/didi/dwv_order_make_haikou_1.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.m2/repository/org/apache/thrift/libthrift/0.12.0/libthrift-0.12.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-start/src/main/scala/master/hudi/spark/package.scala" />
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-start/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/test/scala/master/hudi/test/HudiSparkAppTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.m2/repository/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.jar!/scala/Option.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-start/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="102" column="31" selection-start-line="102" selection-start-column="31" selection-end-line="102" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.m2/repository/org/apache/hudi/hudi-spark3-bundle_2.12/0.9.0/hudi-spark3-bundle_2.12-0.9.0.jar!/org/apache/hudi/common/util/ValidationUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.m2/repository/org/apache/spark/spark-sql_2.12/3.0.0/spark-sql_2.12-3.0.0.jar!/org/apache/spark/sql/SparkSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/test/scala/master/hudi/test/DayWeekTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#25#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/hudi-spark.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6e3b76d3-a8b5-4b91-b7bf-9e7fd2d6f691/schema/mysql/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="2981e537-3e8c-4fe9-9ae0-2ab2e9e9abb3">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://F:/数据湖架构开发Hudi/资料-2022数据湖架构开发Hudi/第2部分、Hudi 应用进阶篇（Spark 集成）-资料/第2部分、Hudi 应用进阶篇（Spark 集成）/3.代码、配置/DidiStorageSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="97" column="3" lean-forward="true" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
+          <folding>
+            <element signature="e#29#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_sqw11y1wfhri22/FileStorage/File/2023-12/gitlab注册.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.m2/repository/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.10.0/jackson-module-scala_2.12-2.10.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/SparkUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-start/src/main/scala/master/hudi/spark/HudiSparkdemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#194#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.m2/repository/org/apache/arrow/arrow-vector/0.15.1/arrow-vector-0.15.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/storage.scala" />
+    <entry file="jar://$PROJECT_DIR$/../.m2/repository/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3.jar!/org/apache/hadoop/fs/FSOutputSummer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiStorageSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="81" column="74" selection-start-line="81" selection-start-column="74" selection-end-line="81" selection-end-column="74" />
+          <folding>
+            <element signature="e#25#88#0" expanded="true" />
+            <element signature="e#1723#1770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8b1628d4-04c7-45ae-a444-8b74decb8bc8/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/test/scala/master/hudi/test/HudiSparkDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+          <folding>
+            <element signature="e#672#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="232" column="32" selection-start-line="232" selection-start-column="32" selection-end-line="232" selection-end-column="32" />
+          <folding>
+            <element signature="e#25#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hudi-start</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
