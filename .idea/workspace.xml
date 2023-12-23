@@ -4,17 +4,6 @@
     <list default="true" id="d8e8bd4d-15a5-48df-834c-9a7d780ea314" name="Default Changelist" comment="第一次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/META-INF/hudi-spark.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark$$typecreator1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark$$typecreator1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark$$typecreator1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark$$typecreator1$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiAnalysisSpark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiStorageSpark$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/DidiStorageSpark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/SparkUtils$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hudi-spark/target/classes/master/hudi/didi/SparkUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hudi-spark/target/test-classes/master/hudi/test/DayWeekTest$.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hudi-spark/target/test-classes/master/hudi/test/DayWeekTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hudi-spark/target/test-classes/master/hudi/test/HudiSparkAppTest$.class" beforeDir="false" />
@@ -77,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="190" column="13" selection-start-line="190" selection-start-column="13" selection-end-line="190" selection-end-column="13" />
+            <state relative-caret-position="112">
+              <caret line="195" column="12" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
               <folding>
                 <element signature="e#25#58#0" expanded="true" />
               </folding>
@@ -166,7 +155,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="767" />
     <option name="width" value="1138" />
     <option name="height" value="990" />
@@ -210,6 +199,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql&#10;hive" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -378,7 +368,7 @@
       <workItem from="1702972260946" duration="1325000" />
       <workItem from="1702973628380" duration="3933000" />
       <workItem from="1703250184457" duration="807000" />
-      <workItem from="1703253094460" duration="12200000" />
+      <workItem from="1703253094460" duration="12918000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1703261377509</created>
@@ -391,7 +381,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129826000" />
+    <option name="totallyTimeSpent" value="130544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,9 +393,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="614" y="0" width="910" height="792" extended-state="1" />
+    <frame x="614" y="0" width="910" height="792" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49772727" visible="true" weight="0.342723" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772727" visible="true" weight="0.342723" />
       <window_info id="Structure" order="1" sideWeight="0.5022727" side_tool="true" weight="0.22147001" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -414,7 +405,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49759847" weight="0.24279211" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4964789" weight="0.24242425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -422,7 +413,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32863188" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50352114" side_tool="true" visible="true" weight="0.41363636" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4964789" visible="true" weight="0.41363636" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4964789" weight="0.41363636" />
       <window_info anchor="bottom" id="File Transfer" order="11" weight="0.32791728" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32857144" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -716,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hudi-spark/src/main/scala/master/hudi/didi/DidiAnalysisSpark.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="190" column="13" selection-start-line="190" selection-start-column="13" selection-end-line="190" selection-end-column="13" />
+        <state relative-caret-position="112">
+          <caret line="195" column="12" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
           <folding>
             <element signature="e#25#58#0" expanded="true" />
           </folding>
